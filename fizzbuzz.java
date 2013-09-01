@@ -1,4 +1,4 @@
-class arrayloop
+class fizzbuzz
 {
     public static void main(String[] args)
     {
